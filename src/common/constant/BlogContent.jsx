@@ -12,7 +12,7 @@ export const BlogContent = [
           What Exactly Is a Credit Score?
         </h2>
         <p className="pb-5 leading-relaxed">
-          Think of your credit score as a financial report card. It's a number, typically between 300 and 850, that lenders use to quickly assess your creditworthiness—how likely you are to repay borrowed money. This score is calculated based on information in your credit report, which details your history of managing debt. Major scoring models like FICO® and VantageScore® analyze this data to predict risk. A higher score indicates lower risk, making it easier to qualify for loans and credit cards with better interest rates. [Source: Experian]
+          Think of your credit score as a financial report card. It&apos;s a number, typically between 300 and 850, that lenders use to quickly assess your creditworthiness—how likely you are to repay borrowed money. This score is calculated based on information in your credit report, which details your history of managing debt. Major scoring models like FICO® and VantageScore® analyze this data to predict risk. A higher score indicates lower risk, making it easier to qualify for loans and credit cards with better interest rates. [Source: Experian]
         </p>
         <h2 className="text-2xl font-bold py-3">
           Key Factors That Shape Your Score
@@ -65,7 +65,7 @@ export const BlogContent = [
           Why Checking Your Credit Report Matters
         </h2>
         <p className="pb-5 leading-relaxed">
-          Your credit report is the foundation of your credit score. Inaccuracies can lead to lower scores, denied loan applications, higher interest rates, and even trouble renting an apartment or getting a job. Studies have shown errors are surprisingly common, making regular review essential. You're entitled to free copies of your reports from each of the three major bureaus (Equifax, Experian, TransUnion) annually via AnnualCreditReport.com. [Source: FTC, CFPB]
+          Your credit report is the foundation of your credit score. Inaccuracies can lead to lower scores, denied loan applications, higher interest rates, and even trouble renting an apartment or getting a job. Studies have shown errors are surprisingly common, making regular review essential. You&apos;re entitled to free copies of your reports from each of the three major bureaus (Equifax, Experian, TransUnion) annually via AnnualCreditReport.com. [Source: FTC, CFPB]
         </p>
         <h2 className="text-2xl font-bold py-3">
           Common Types of Credit Report Errors
@@ -101,7 +101,7 @@ export const BlogContent = [
             <strong>Gather Evidence:</strong> Collect copies (never originals!) of documents supporting your claim, such as bank statements, cancelled checks, or letters from creditors confirming correct information.
           </li>
            <li>
-            <strong>Contact the Credit Bureau(s):</strong> You must dispute the error with each credit bureau showing the inaccuracy. You can typically do this online (often the fastest way), by mail, or sometimes by phone. Clearly explain in writing what information is wrong, why it's wrong, and what correction you want. Include copies of your supporting documents. Use certified mail with a return receipt if sending by post for proof of delivery.
+            <strong>Contact the Credit Bureau(s):</strong> You must dispute the error with each credit bureau showing the inaccuracy. You can typically do this online (often the fastest way), by mail, or sometimes by phone. Clearly explain in writing what information is wrong, why it&apos;s wrong, and what correction you want. Include copies of your supporting documents. Use certified mail with a return receipt if sending by post for proof of delivery.
               <ul className="list-disc pl-6 pt-2 space-y-1">
                   <li>Equifax: [www.equifax.com/personal/credit-report-services/credit-dispute/](https://www.equifax.com/personal/credit-report-services/credit-dispute/)</li>
                   <li>Experian: [www.experian.com/disputes/main.html](https://www.experian.com/disputes/main.html)</li>
@@ -115,14 +115,14 @@ export const BlogContent = [
             <strong>Wait for Investigation:</strong> Credit bureaus generally have 30 days to investigate your dispute. They must forward your information to the furnisher, who also must investigate. 
           </li>
            <li>
-            <strong>Review the Results:</strong> The credit bureau must provide you with the written results of the investigation and a free updated copy of your report if a change was made. If the information is corrected or removed, you're done! If the dispute is rejected but you still believe it's an error, you can add a 100-word statement to your credit file explaining your side of the story. You can also escalate the issue by filing a complaint with the CFPB. [Source: consumerfinance.gov]
+            <strong>Review the Results:</strong> The credit bureau must provide you with the written results of the investigation and a free updated copy of your report if a change was made. If the information is corrected or removed, you&apos;re done! If the dispute is rejected but you still believe it&apos;s an error, you can add a 100-word statement to your credit file explaining your side of the story. You can also escalate the issue by filing a complaint with the CFPB. [Source: consumerfinance.gov]
           </li>
         </ol>
         <h2 className="text-2xl font-bold py-3">
           Takeaway
         </h2>
         <p className="pb-5 leading-relaxed">
-          Regularly checking your credit reports for errors is crucial for maintaining good credit. Don't hesitate to use the free dispute process offered by credit bureaus and furnishers to correct inaccuracies and protect your financial health.
+          Regularly checking your credit reports for errors is crucial for maintaining good credit. Don&apos;t hesitate to use the free dispute process offered by credit bureaus and furnishers to correct inaccuracies and protect your financial health.
         </p>
       </>
     ),
@@ -177,7 +177,7 @@ export const BlogContent = [
           Maintaining Good Credit Long-Term
         </h2>
          <p className="pb-2 leading-relaxed">
-          Once you've built good credit, protect it: [Source: CFPB, Experian]
+          Once you&apos;ve built good credit, protect it: [Source: CFPB, Experian]
         </p>
          <ul className="list-disc pl-6 pb-5 space-y-2 leading-relaxed">
           <li>
@@ -187,7 +187,7 @@ export const BlogContent = [
             <strong>Keep Old Accounts Open:</strong> Closing accounts, especially older ones, can shorten your credit history length and reduce your available credit, potentially lowering your score. Keep unused, no-fee cards open if possible.
           </li>
            <li>
-            <strong>Manage Different Credit Types:</strong> Having a mix of revolving credit (cards) and installment loans (mortgage, auto) can be beneficial, but don't open accounts just for the sake of mix.
+            <strong>Manage Different Credit Types:</strong> Having a mix of revolving credit (cards) and installment loans (mortgage, auto) can be beneficial, but don&apos;t open accounts just for the sake of mix.
           </li>
            <li>
             <strong>Be Patient:</strong> Building excellent credit takes time and consistent positive behavior.

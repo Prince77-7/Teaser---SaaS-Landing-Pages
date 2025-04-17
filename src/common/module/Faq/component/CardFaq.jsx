@@ -28,7 +28,7 @@ const CardFaq = () => {
             Still Have Questions?
           </h1>
           <p className="text-base mb-10 text-neutral-700 mt-5 max-xl:line-clamp-5 dark:text-neutral-300">
-            If you don't see your question answered here, please feel free to contact us or book a consultation to discuss your specific situation.
+            If you don&apos;t see your question answered here, please feel free to contact us or book a consultation to discuss your specific situation.
           </p>
           <a 
             href="https://calendly.com/jrmooreservices/credit-consultation" 

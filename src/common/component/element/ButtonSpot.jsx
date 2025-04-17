@@ -24,19 +24,17 @@ export const ButtonSpot = ({title, className}) => {
       );
     };
   
-    const btn = btnRef.current;
+    const buttonElement = btnRef.current;
   
-    if (btn) {
-      btn.addEventListener("mousemove", handleMouseMove);
-      btn.addEventListener("mouseleave", handleMouseLeave);
+    if (buttonElement) {
+      buttonElement.addEventListener("mousemove", handleMouseMove);
+      buttonElement.addEventListener("mouseleave", handleMouseLeave);
     }
   
     return () => {
-      const btn = btnRef.current;
-  
-      if (btn) {
-        btn.removeEventListener("mousemove", handleMouseMove);
-        btn.removeEventListener("mouseleave", handleMouseLeave);
+      if (buttonElement) {
+        buttonElement.removeEventListener("mousemove", handleMouseMove);
+        buttonElement.removeEventListener("mouseleave", handleMouseLeave);
       }
     };
   }, []);
