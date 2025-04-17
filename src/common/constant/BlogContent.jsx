@@ -25,7 +25,7 @@ export const BlogContent = [
             <strong>Payment History (35%):</strong> This is the most critical factor. Consistently paying bills on time boosts your score. Late payments (30+ days), collections, and bankruptcies significantly hurt it.
           </li>
           <li>
-            <strong>Amounts Owed (30%):</strong> This looks at your total debt, but especially your credit utilization ratio – how much of your available credit card limit you're using. Keeping balances low (ideally below 30%, even better below 10%) is crucial.
+            <strong>Amounts Owed (30%):</strong> This looks at your total debt, but especially your credit utilization ratio – how much of your available credit card limit you&apos;re using. Keeping balances low (ideally below 30%, even better below 10%) is crucial.
           </li>
           <li>
             <strong>Length of Credit History (15%):</strong> A longer history of responsible credit use generally helps your score. This includes the age of your oldest account, newest account, and the average age of all accounts.
@@ -34,7 +34,7 @@ export const BlogContent = [
             <strong>Credit Mix (10%):</strong> Lenders like to see that you can responsibly manage different types of credit, such as credit cards (revolving credit) and loans (installment credit like mortgages or auto loans).
           </li>
           <li>
-            <strong>New Credit (10%):</strong> Opening many new accounts in a short period can slightly lower your score temporarily. Each application for credit can result in a "hard inquiry" on your report.
+            <strong>New Credit (10%):</strong> Opening many new accounts in a short period can slightly lower your score temporarily. Each application for credit can result in a &quot;hard inquiry&quot; on your report.
           </li>
         </ul>
         <h2 className="text-2xl font-bold py-3">
@@ -75,7 +75,7 @@ export const BlogContent = [
         </p>
         <ul className="list-disc pl-6 pb-5 space-y-2 leading-relaxed">
           <li>
-            <strong>Identity Errors:</strong> Incorrect name, address, or phone number; information belonging to someone else with a similar name (a "mixed file").
+            <strong>Identity Errors:</strong> Incorrect name, address, or phone number; information belonging to someone else with a similar name (a &quot;mixed file&quot;).
           </li>
           <li>
             <strong>Incorrect Account Status:</strong> Accounts incorrectly reported as late, delinquent, or open when they should be closed; being listed as an owner instead of an authorized user.
