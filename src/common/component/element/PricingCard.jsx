@@ -14,7 +14,7 @@ export default function PricingCard() {
           delay={index * 0.1}
           key={index}
           className={clsx(
-            `w-full p-10 grid gap-10 border-[1px] rounded-3xl`,
+            `relative w-full p-10 grid gap-10 border-[1px] rounded-3xl`,
             item.recommended ? 'border-gold-500' : 'border-neutral-300 dark:border-neutral-700'
           )}
         >
