@@ -60,7 +60,7 @@ const Footer = () => {
           <FaDiscord size={30} />
         </div>
         <div className="flex flex-col text-center">
-          <h1 className="text-sm">© 2024 Empowerment Consulting Services LLC. All Rights Reserved.</h1>
+          <h1 className="text-sm">© 2025 Empowerment Consulting Services LLC. All Rights Reserved.</h1>
         </div>
       </div>
     </div>

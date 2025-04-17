@@ -5,7 +5,7 @@ import NavigationMenuMobile from "./NavigationMenuMobile";
 const NavMobile = ({ open, handleOpen, close }) => {
   return (
     <div>
-      <label className={`hamburger relative z-[999] ${open ? "open" : ""}`}>
+      <label className={`hamburger relative z-[999] ${open ? "open" : ""} transform-gpu`}>
         <input
           type="checkbox"
           className="inputToogle"

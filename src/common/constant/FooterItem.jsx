@@ -18,15 +18,15 @@ export const FooterItem = [
         title: 'Services',
         child_1: {
             title: 'Credit Analysis',
-            href: '/services',
+            href: '/services/credit-analysis',
         },
         child_2: {
             title: 'Dispute Management',
-            href: '/services',
+            href: '/services/dispute-management',
         },
         child_3: {
             title: 'Credit Building',
-            href: '/services',
+            href: '/services/credit-building',
         },
     },
     {

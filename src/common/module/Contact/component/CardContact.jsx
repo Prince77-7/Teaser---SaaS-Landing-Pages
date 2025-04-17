@@ -13,23 +13,25 @@ const CardContact = () => {
           </h1>
           <h1 className="text-4xl py2 font-bold ">Get In Touch</h1>
 
-          <h1 className="mt-10 text-lg">Head-quarters:</h1>
-          <h2 className="text-neutral-500">Indonesia, Jakarta</h2>
-          <h2 className="text-neutral-500">Email: mfahlevi740@gmail.com</h2>
+          <h1 className="mt-10 text-lg">Our Location:</h1>
+          <h2 className="text-neutral-500">3540 Summer Ave #305</h2>
+          <h2 className="text-neutral-500">Memphis, TN 38122</h2>
+          {/* <h2 className="text-neutral-500">Email: mfahlevi740@gmail.com</h2> */}
         </ComponentTransition>
         <div className="w-full h-auto md:h-[300px] md:basis-[55%] ">
           <ContactForm />
         </div>
 
         <ComponentTransition delay={0.2} className="w-full h-auto overflow-hidden rounded-3xl  md:basis-[47%] ">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253840.65638805012!2d106.66470295433655!3d-6.229379591448096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f3e945e34b9d%3A0x5371bf0fdad786a2!2sJakarta%2C%20Daerah%20Khusus%20Ibukota%20Jakarta!5e0!3m2!1sid!2sid!4v1701852183072!5m2!1sid!2sid"
-            width="100%"
-            height="100%"
-            className="border-none h-[350px] px-0 rounded-3xl"
-            allowFullScreen
-            loading="lazy"
+          <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254.86506939203596!2d-89.94314612570203!3d35.149814482118046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x887f816abc43318d%3A0x1ff2f39de30746d4!2s3540%20Summer%20Ave%20Suite%20305%2C%20Memphis%2C%20TN%2038122!5e16!3m2!1sen!2sus!4v1744918660113!5m2!1sen!2sus"
+            width="100%" 
+            height="100%" 
+            style={{border:0}} 
+            allowFullScreen="" 
+            loading="lazy" 
             referrerPolicy="no-referrer-when-downgrade"
+            className="border-none h-[350px] px-0 rounded-3xl"
           ></iframe>
         </ComponentTransition>
         <ComponentTransition delay={0.3} className="w-full h-[350px] overflow-hidden rounded-3xl  md:basis-[47%]">
